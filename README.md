@@ -15,8 +15,6 @@ This is a simple **Car Rental System** built using **Object-Oriented Programming
 - **File Separation** (`.h` and `.cpp`)
 - **Menu-driven Console App**
 
----
 
-## 🏗️ Project Structure
 
 
